@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Minnesota, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 14 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `946758` |
 | Location | Minnesota |
 | Category | Restaurants |
-| Full dataset size | 7 records |
-| Free sample size | 1 records (14.29%) |
-| Last export | 2026-04-22T17:23:26.560760+00:00 |
+| Full dataset size | 148 records |
+| Free sample size | 14 records (9.46%) |
+| Last export | 2026-04-29T17:13:44.249042+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-minnesota-us-sample-946758/releases/download/sample-latest/beamstation_946758_restaurants-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
