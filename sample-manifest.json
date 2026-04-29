@@ -1,12 +1,12 @@
 {
-  "export_job_id": "aabbe9af-d470-4225-816a-8199278a5209",
+  "export_job_id": "4be33c79-3f9d-4089-b49a-12d9517df648",
   "id_short": 946758,
-  "published_at": "2026-04-23T07:18:13Z",
+  "published_at": "2026-04-29T19:47:40Z",
   "repo_name": "tech-ready-restaurants-in-minnesota-us-sample-946758",
   "sample_asset_name": "beamstation_946758_restaurants-us-mn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/946758/beamstation_946758_restaurants-us-mn_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "14c27fc1341821bf4775fcc443aa620846196f3d66748948c424bdc835722bc6",
-  "sample_size_bytes": 20228,
-  "total_records": 7
+  "sample_records": 14,
+  "sample_sha256": "1d67bb77e7b108b35f0dd7d7bd08bb695ff0f31e2600f668b73a91de12927bde",
+  "sample_size_bytes": 67122,
+  "total_records": 148
 }
